@@ -254,6 +254,7 @@ header .hamburger-icon{
   display: flex;
   justify-content: center;
   text-align: center;
+  width:auto;
 }
 #services-section .service-subtitle-container {
   display: flex;
