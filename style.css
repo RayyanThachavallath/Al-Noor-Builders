@@ -253,6 +253,7 @@ header .hamburger-icon{
   color: #fe7743;
   display: flex;
   justify-content: center;
+  text-align: center;
 }
 #services-section .service-subtitle-container {
   display: flex;
